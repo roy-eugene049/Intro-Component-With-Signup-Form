@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/roy-eugene049/Intro-Component-With-Signup-Form)
-- Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Intro-Component-With-Signup-Form/index.html)
+- Live Site URL: [Live Demo](https://intro-component-with-signup-form-liart-pi.vercel.app/)
 
 ## My process
 
