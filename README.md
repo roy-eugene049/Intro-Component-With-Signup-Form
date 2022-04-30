@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/yash-278/Frontend-Mentor-Challenges/tree/main/Intro-Component-With-Signup-Form)
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/Intro-Component-With-Signup-Form)
 - Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Intro-Component-With-Signup-Form/index.html)
 
 ## My process
